@@ -31,3 +31,4 @@ gems:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
+  - jekyll-admin
